@@ -4,7 +4,9 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
-**医学人工智能课程随堂实践 Notebook 教学材料** | Medical AI Course Hands-on Practice Materials
+中文 | [English](README_EN.md)
+
+**医学人工智能课程随堂实践 Notebook 教学材料**
 
 本项目为《医学人工智能》课程设计的教学友好型 Jupyter Notebook 随堂实践脚本，主要面向无编程背景或编程基础较弱的医学生。
 
